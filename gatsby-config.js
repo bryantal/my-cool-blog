@@ -4,5 +4,8 @@ module.exports = {
     title: 'The Cool Blog',
     description: 'This blog is for cool kids only'
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp"
+  ],
 }
