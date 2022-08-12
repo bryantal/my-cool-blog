@@ -9,7 +9,7 @@ const IndexPage = () => {
       <p>I'm making this blog while learning Gatsby and React!</p>
       <StaticImage
         alt="My Old Workspace"
-        src="../images/my_old_workspace.jpg"
+        src="../images/my-old-workspace.jpg"
       />
     </Layout>
   )
